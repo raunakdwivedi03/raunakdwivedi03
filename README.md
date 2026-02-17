@@ -9,14 +9,6 @@ This GitHub reflects my learning journey, consistency, and a practical approach 
 
 ---
 
-## 👋 Introduction (30-Second Video – Recommended)
-
-🎥 **A quick introduction about me and my work**  
-
-[![Introduction Video](intro-thumbnail.png)](PASTE_YOUR_VIDEO_LINK_HERE)
-
----
-
 ## 🚀 Skills
 
 **Programming Languages**
@@ -48,31 +40,6 @@ This GitHub reflects my learning journey, consistency, and a practical approach 
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 Data Analysis Projects
-- Performed exploratory data analysis on real-world datasets
-- Generated insights using visualizations and statistical summaries
-
-🔗 Repository: https://github.com/raunakdwivedi03/data-science-projects  
-
----
-
-### 🤖 Machine Learning Projects
-- Built beginner-friendly ML models for prediction and classification
-- Focused on understanding the full ML workflow
-
-🔗 Repository: https://github.com/raunakdwivedi03/machine-learning-basics  
-
----
-
-### 🧠 NLP Projects
-- Worked on text processing and basic NLP pipelines
-- Implemented feature extraction and classification techniques
-
-🔗 Repository: https://github.com/raunakdwivedi03/nlp-projects  
-
----
 
 ### 💻 C++ Data Structures & Algorithms
 - Solved DSA problems using C++
