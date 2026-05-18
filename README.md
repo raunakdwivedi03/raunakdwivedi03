@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Raunak Dwivedi 👋</h1>
 
 <p align="center">
@@ -8,9 +7,9 @@
 
 <p align="center">
   <a href="mailto:raunakdwivedi2303@gmail.com"><img src="https://img.shields.io/badge/Email-raunakdwivedi2303%40gmail.com-D85A30?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/raunakdwivedi03"><img src="https://img.shields.io/badge/LinkedIn-raunakdwivedi03-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raunak-dwivedi-b47338340/"><img src="https://img.shields.io/badge/LinkedIn-raunakdwivedi03-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/raunakdwivedi03"><img src="https://img.shields.io/badge/GitHub-raunakdwivedi03-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/raunakdwivedi03"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Raunak_dwivedi_3/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
