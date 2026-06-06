@@ -19,13 +19,24 @@
 I build **production-grade AI systems** — agentic pipelines, LLM-powered applications, RAG architectures, and end-to-end ML pipelines. My focus is on taking AI products from prototype to production with solid engineering practices.
 
 - 🤖 Designing **Agentic AI** systems with LangGraph & multi-agent orchestration
-- 🔍 Building **RAG pipelines** with FAISS vector search and semantic chunking
-- ☁️ Deploying on **AWS** (certified) with Docker, Kubernetes & CI/CD
+- 🔍 Building **RAG pipelines** with FAISS/Qdrant vector search and semantic chunking
+- ☁️ Deploying on **AWS & Render** with Docker, Kubernetes & CI/CD
 - 📊 Wrapping up **B.Tech IT** (May 2026) while shipping real-world AI systems
 
 ---
 
 ## 🚀 Featured Projects
+
+### AgentForge — Full-Stack Multi-Agent AI Console & Workspace
+> `FastAPI` `React` `Vite` `Tailwind CSS v4` `LangGraph` `CrewAI` `Google ADK` `Groq API` `MongoDB` `Qdrant` `Docker` `Render`
+
+Architected and built a high-fidelity, full-stack multi-agent workspace integrating LangGraph (multi-step logical calculations), CrewAI (collaborative researcher & writer workflows), and the Google Workspace ADK (Gmail drafting, Calendar scheduling, Drive indexing, and Google Docs creation).
+
+- **Sleek Glassmorphic UI**: Built a premium, interactive interface featuring glowing panel animations, pulsing active runtime indicators, and collapsible step-by-step reasoning logs.
+- **Robust Security**: Engineered a passwordless OTP authentication system using cryptographically signed HMAC session tokens with strict token expiration and validation checks.
+- **Resilient Fallback RAG & Mail Systems**: Implemented direct SMTP dispatch with automatic fallback to Google Gmail REST API (port 443) to bypass cloud-hosting port blocking, alongside MongoDB session persistence and Qdrant vector retrieval.
+
+---
 
 ### AutoLead AI — Production Agentic AI System
 > `LangGraph` `LangChain` `Groq API` `RAG` `FAISS` `Playwright` `MongoDB` `Docker` `Kubernetes` `AWS` `CI/CD`
@@ -80,6 +91,7 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 ![WatsonX](https://img.shields.io/badge/WatsonX-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ### RAG & Vector Search
+![Qdrant](https://img.shields.io/badge/Qdrant-D82C2C?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0F6E56?style=flat-square&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-3C3489?style=flat-square&logoColor=white)
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-D85A30?style=flat-square&logoColor=white)
@@ -94,11 +106,13 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Languages & Data
+### Languages, Databases & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
