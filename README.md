@@ -18,14 +18,14 @@
 
 I build **production-grade AI systems** — agentic pipelines, LLM-powered applications, RAG architectures, and end-to-end ML pipelines. My focus is on taking AI products from prototype to production with solid engineering practices.
 
-- 🤖 Designing **Agentic AI** systems with LangGraph & multi-agent orchestration
-- 🔍 Building **RAG pipelines** with FAISS/Qdrant vector search and semantic chunking
-- ☁️ Deploying on **AWS & Render** with Docker, Kubernetes & CI/CD
-- 📊 Wrapping up **B.Tech IT** (May 2026) while shipping real-world AI systems
+-  Designing **Agentic AI** systems with LangGraph & multi-agent orchestration
+-  Building **RAG pipelines** with FAISS/Qdrant vector search and semantic chunking
+-  Deploying on **AWS & Render** with Docker, Kubernetes & CI/CD
+-  Wrapping up **B.Tech IT** (May 2026) while shipping real-world AI systems
 
 ---
 
-## 🚀 Featured Projects
+## --> Featured Projects
 
 ### AgentForge — Full-Stack Multi-Agent AI Console & Workspace
 > `FastAPI` `React` `Vite` `Tailwind CSS v4` `LangGraph` `CrewAI` `Google ADK` `Groq API` `MongoDB` `Qdrant` `Docker` `Render`
@@ -80,7 +80,7 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 
 ---
 
-## 🛠️ Tech Stack
+## --> Tech Stack
 
 ### AI & LLM Engineering
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -120,7 +120,7 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 
 ---
 
-## 📊 GitHub Stats
+## --> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raunakdwivedi03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
@@ -133,7 +133,7 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 
 ---
 
-## 🏆 Achievements & Certifications
+## --> Achievements & Certifications
 
 - 🥇 **LeetCode 100-Day Coding Badge (2025)** — 300+ problems in Python & C++ covering trees, graphs, dynamic programming, and sorting algorithms
 - ☁️ **AWS Cloud Foundation and Architecture** — Amazon Web Services (Certified)
@@ -144,7 +144,7 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 
 ---
 
-## 🎓 Education
+## --> Education
 
 **Bachelor of Technology — Information Technology**  
 G.L. Bajaj Institute of Technology and Management · Nov 2022 – May 2026 · **CGPA: 7.6 / 10**
