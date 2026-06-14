@@ -20,7 +20,7 @@ I build **production-grade AI systems** — agentic pipelines, LLM-powered appli
 
 -  Designing **Agentic AI** systems with LangGraph & multi-agent orchestration
 -  Building **RAG pipelines** with FAISS/Qdrant vector search and semantic chunking
--  Deploying on **AWS & Render** with Docker, Kubernetes & CI/CD
+-  Deploying on **AWS, Vercel & Render** with Docker, Kubernetes & CI/CD
 -  Wrapping up **B.Tech IT** (May 2026) while shipping real-world AI systems
 
 ---
@@ -35,6 +35,23 @@ Architected and built a high-fidelity, full-stack multi-agent workspace integrat
 - **Sleek Glassmorphic UI**: Built a premium, interactive interface featuring glowing panel animations, pulsing active runtime indicators, and collapsible step-by-step reasoning logs.
 - **Robust Security**: Engineered a passwordless OTP authentication system using cryptographically signed HMAC session tokens with strict token expiration and validation checks.
 - **Resilient Fallback RAG & Mail Systems**: Implemented direct SMTP dispatch with automatic fallback to Google Gmail REST API (port 443) to bypass cloud-hosting port blocking, alongside MongoDB session persistence and Qdrant vector retrieval.
+
+---
+
+### FlowStock — Containerized Inventory & Order Management System
+> `FastAPI` `React` `Vite` `PostgreSQL` `Docker` `Docker Compose` `SQLAlchemy` `Pydantic V2` `Render` `Vercel` `GitHub Actions`
+> 
+> 🔗 **[Live Frontend Web App](https://inventory-order-system-frontend.vercel.app)** | 🔗 **[Live Backend API](https://inventory-order-system-gww5.onrender.com)**
+
+Built a production-ready, containerized, full-stack Inventory & Order Management System designed for robust business transactional integrity and real-time analytics.
+
+- **Sleek Glassmorphic UI**: Engineered a premium dark slate/indigo/teal responsive dashboard displaying key business metrics, low stock warnings (< 10 units), and modals for CRUD catalog operations.
+- **Strict Transactional Integrity**: Programmed concurrent-safe PostgreSQL checkout logic on the backend. Creating orders checks stock levels under row lock, decrements stock, and calculates pricing dynamically, automatically rolling back the database transaction on any validation or insufficient stock failure.
+- **CI/CD & Cloud Orchestration**: Decoupled multi-service container structure using Docker & Docker Compose. Automated backend image building and deployment to Docker Hub using GitHub Actions on git push.
+- **🔮 Future Roadmap & AI Extensions:**
+  - **AI Inventory Agent:** Integrate an autonomous LLM agent (via LangGraph) that monitors weekly stock levels, correlates with seasonal order patterns, and writes restocking recommendations.
+  - **Automated Alerts:** Set up triggered email/Slack notifications that alert admins when items cross a critical stock threshold.
+  - **Intelligent Analytics Chatbot:** Add an on-dashboard conversational agent to query inventory and sales history in natural language (e.g., *"Which products are selling fastest this week?"*).
 
 ---
 
@@ -94,7 +111,7 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 ![Qdrant](https://img.shields.io/badge/Qdrant-D82C2C?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0F6E56?style=flat-square&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-3C3489?style=flat-square&logoColor=white)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-D85A30?style=flat-square&logoColor=white)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-D85A30?style=flat-square&logo=white)
 
 ### ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -107,11 +124,13 @@ GenAI-powered multi-agent system that autonomously generates research-backed blo
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Languages, Databases & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
